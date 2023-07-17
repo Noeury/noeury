@@ -70,13 +70,6 @@
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
     <!-- Add the commit and pull request images and links here -->
-<p align="center">
-  <!-- Add the contributed repositories image and link here -->
-  <a href="https://github.com/noeury">
-    <img alt="GitHub contributed repositories" src="https://img.shields.io/github/contributions/noeury/noeury?style=flat-square">
-  </a>
-</p>
-
 </div>
 
 <!--icons and links-->
