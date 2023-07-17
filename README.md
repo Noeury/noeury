@@ -69,6 +69,14 @@
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
+    <!-- Add the commit and pull request images and links here -->
+  <a href="https://github.com/noeury">
+    <img alt="GitHub commits" src="https://img.shields.io/github/commit-activity/w/noeury/noeury?style=flat-square">
+  </a>
+  <a href="https://github.com/noeury">
+    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/noeury/noeury?style=flat-square">
+  </a>
+</p>
 </div>
 
 <!--icons and links-->
