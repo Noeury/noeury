@@ -6,11 +6,11 @@
   </ul>
 </div>
 
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
+<p>
+<h2>  <a href="https://noeury.dev/">
+   My portfolio
+  </a></h2>
+</p>
 
 - 🔭 I’m currently working on some projects using Vue and React
 - 🌱 I’m currently learning React
