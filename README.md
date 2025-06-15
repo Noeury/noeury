@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Noeury Feliz
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E9BF7&center=true&vCenter=true&random=false&width=600&height=100&lines=Data+Engineer+%26+Software+Developer;Building+Scalable+Data+Pipelines;Transforming+Data+Into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&pause=1000&color=2E9BF7&center=true&vCenter=true&random=false&width=1000&height=150&lines=Data+Engineer+%26+Software+Developer;Building+Scalable+Data+Pipelines;Transforming+Data+Into+Insights" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -55,9 +55,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noeuryfeliz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeuryfeliz&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noeuryfeliz&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noeury&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noeury&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noeury&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ## 🌐 Connect With Me
@@ -81,7 +81,6 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=noeuryfeliz&color=2E9BF7" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=noeury&color=2E9BF7" alt="Profile Views" />
   
-  ![Snake animation](https://github.com/noeuryfeliz/noeuryfeliz/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
